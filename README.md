@@ -18,3 +18,7 @@
    > php spark serve
 
 5. Buka di browser [http://localhost:8080](http://localhost:8080/)
+
+6. Untuk menampilkan informasi yang lengkap, setelah login anda dapat masuk ke menu edit dan mengisi informasi yang dibutuhkan
+
+7. Untuk bagian sosial media , cukup memberikan username sosial media anda 
