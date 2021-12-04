@@ -29,7 +29,7 @@
                                     <div class="user-avatar">
                                         <img src="<?= base_url(); ?>/img/<?= user()->gambar; ?>" alt="<?= user()->nama; ?>">
                                     </div>
-                                    <h5 class="user-name"><?= user()->username; ?></h5>
+                                    <h5 class="user-name">@<?= user()->username; ?></h5>
                                     <h6 class="user-email"><?= user()->email; ?></h6>
                                 </div>
                                 <div class="about">
