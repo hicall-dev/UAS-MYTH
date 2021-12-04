@@ -8,7 +8,7 @@
 
 1. Letakan projek kedalam htdocs
 
-2. Buat database baru bernama 'uas_myth', atau bisa di kustomisasi dengan mengubah isi "database.default.database" menjadi nama database yang diinginkan
+2. Buat database baru bernama 'uas_myth', atau bisa di kustomisasi dengan mengubah isi "database.default.database" pada file .env menjadi nama database yang diinginkan
 
 3. Buka terminal didalam folder projek
 
